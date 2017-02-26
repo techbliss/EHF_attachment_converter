@@ -1,8 +1,7 @@
 **EHF attachment xml to pdf converter**
 
-I programmed this code because many invoice software when not send out correct, they store the pdf as xml.
-
-This is for converting it back to PDF so we can read what invoice is is , and then can be resend or imported to main software.
+I programmed this code, because many invoice software when not send out correct, they store the pdf as xml.
+So this is for converting it back to PDF so we can read what invoice is is , and then can be resend or imported to main software.
 
 
 **Reference**
