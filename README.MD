@@ -8,7 +8,7 @@ So this is for converting it back to PDF so we can read what invoice is is , and
 
 [EHF Overview](http://connect.demo.ibxplatform.com/IBX%20Connect%20-%20EHF.html)
 
-[Difi](https://github.com/difi)
+[EHF Standards Difi](https://github.com/difi/vefa-ehf-postaward)
 
 **EHF**
 
