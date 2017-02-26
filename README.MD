@@ -36,4 +36,4 @@ or from command prompt
 
 after conversion you should have a copy of the invoice.
 
-![invoice](https://cloud.githubusercontent.com/assets/3592375/23343757/c501b452-fc70-11e6-9a29-fcf8d54b24c1.png)
+
