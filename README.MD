@@ -26,7 +26,7 @@ or from command prompt
 
 **EHF Invoice examples**
 
-* [EHF Invoice example with standard elements and SOAP 1.2 envelope including an embedded attachment](http://connect.demo.ibxplatform.com/xml/SOAP12_EHF%20Invoice%20example%20simple%20with%20BLOB%20attachment.xml "EHF Invoice example with standard elements and SOAP 1.2 envelope including an embedded attachment")
+[EHF Invoice example with standard elements and SOAP 1.2 envelope including an embedded attachment](http://connect.demo.ibxplatform.com/xml/SOAP12_EHF%20Invoice%20example%20simple%20with%20BLOB%20attachment.xml "EHF Invoice example with standard elements and SOAP 1.2 envelope including an embedded attachment")
 
 **EHF Invoice examples**
 
